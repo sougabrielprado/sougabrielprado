@@ -34,15 +34,6 @@
 
 ---
 
-### 📊 Estatísticas de Performance de Elite
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sougabrielprado&show_icons=true&theme=tokyonight&bg_color=000033&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougabrielprado&layout=compact&langs_count=7&theme=tokyonight&bg_color=000033&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700"/>
-</div>
-
----
-
 ### 🤝 Conecte-se com a Autoridade
 
 <div align="center">
